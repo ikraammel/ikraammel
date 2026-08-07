@@ -12,7 +12,7 @@
 ### 🌱 Currently
 
 - Building production-grade **full-stack & mobile applications**
-- Deepening expertise in **Spring Boot**, **Flutter**, and **DevOps** (Docker, Jenkins CI/CD)
+- Deepening my expertise in **Spring Boot**, **Flutter**
 ---
 
 👉 See all projects: **[github.com/ikraammel](https://github.com/ikraammel)**
